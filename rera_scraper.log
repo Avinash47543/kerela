@@ -1,0 +1,66 @@
+2025-05-11 11:07:13,882 - INFO - ====== WebDriver manager ======
+2025-05-11 11:07:16,113 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:07:16,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:07:16,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:07:17,302 - INFO - WebDriver version 134.0.6998.165 selected
+2025-05-11 11:07:17,306 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-05-11 11:07:17,306 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-05-11 11:07:18,797 - INFO - Driver downloading response is 200
+2025-05-11 11:07:19,622 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:07:20,042 - INFO - Driver has been saved in cache [C:\Users\jha.avinash\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-05-11 11:07:24,120 - INFO - Processing K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:07:58,933 - INFO - Found 2 tables for XPath: //*[@id="DivBuilding"]//table[contains(., "Apartment/Villa Type") and contains(., "Carpet Area")]
+2025-05-11 11:07:59,018 - INFO - Table headers: ['Sr.No.', 'Building Name', 'Proposed Date of Completion (As committed to allottees)', 'Number of Basements', 'Number of Podiums', 'Number of Slab of Super Structure', 'Number of Stilts', 'Number of Open Parking', 'Number of Closed Parking']
+2025-05-11 11:08:00,555 - INFO - Added row: ['1', '2BHK', '71.17', '0', '6.21', '0', '18.68', '8.12', '104.18', '1', '0', 'NA']
+2025-05-11 11:08:00,644 - INFO - Added row: ['2', '3BHK', '92.82', '0', '7.25', '0', '24.16', '10.50', '134.73', '1', '0', 'NA']
+2025-05-11 11:08:00,731 - INFO - Added row: ['3', '5 BHK and More', '187.90', '0', '15.65', '0', '48.43', '18.12', '270.10', '1', '0', 'NA']
+2025-05-11 11:08:00,814 - INFO - Added row: ['4', '3BHK', '115.12', '0', '9.31', '0', '29.65', '11.29', '165.37', '11', '5', 'NA']
+2025-05-11 11:08:00,900 - INFO - Added row: ['5', '2BHK', '71.17', '0', '6.21', '0', '18.68', '8.12', '104.18', '11', '0', 'NA']
+2025-05-11 11:08:01,005 - INFO - Added row: ['6', '3BHK', '104.17', '0', '7.95', '0', '26.64', '9.78', '148.54', '1', '0', 'NA']
+2025-05-11 11:08:01,099 - INFO - Added row: ['7', '3BHK', '115.12', '0', '9.31', '4.31', '29.65', '11.29', '165.37', '1', '0', 'NA']
+2025-05-11 11:08:01,182 - INFO - Added row: ['8', '2BHK', '71.17', '0', '6.21', '43.60', '18.68', '8.12', '104.18', '1', '0', 'NA']
+2025-05-11 11:08:01,263 - INFO - Added row: ['9', '3BHK', '92.82', '0', '7.25', '123.54', '24.16', '10.50', '134.73', '1', '0', 'NA']
+2025-05-11 11:08:01,346 - INFO - Added row: ['10', '5 BHK and More', '198.59', '0', '15.16', '0', '50.79', '18.72', '283.26', '1', '0', 'NA']
+2025-05-11 11:08:01,431 - INFO - Added row: ['11', '3BHK', '92.82', '0', '7.25', '0', '24.16', '10.50', '134.73', '11', '3', 'NA']
+2025-05-11 11:08:01,513 - INFO - Added row: ['12', '3BHK', '104.17', '0', '7.48', '0', '26.57', '9.94', '148.16', '11', '1', 'NA']
+2025-05-11 11:08:01,596 - INFO - Added row: ['13', '3BHK', '115.12', '0', '9.76', '0', '29.76', '11.30', '165.94', '1', '0', 'NA']
+2025-05-11 11:08:01,741 - INFO - Added row: ['14', '3BHK', '104.17', '0', '7.48', '74.42', '26.57', '9.94', '148.16', '1', '0', 'NA']
+2025-05-11 11:08:02,918 - INFO - Table headers: ['Sr.No.', 'Apartment/Villa Type', 'Carpet Area', 'Area of exclusive veranda', 'Area of exclusive balcony', 'Area of exclusive open terrace', 'Share of common area', 'Area of external wall', 'Total area', 'Proposed number of apartments', 'Number of apartments Booked /Sold /Allotted']
+2025-05-11 11:08:04,042 - INFO - Found 14 apartment rows, stopping table search
+2025-05-11 11:08:04,108 - INFO - Successfully processed K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:08:04,109 - INFO - Processing K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:08:16,148 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/3516deed27017b9d66066e23af1e99bf
+2025-05-11 11:08:20,213 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EEDA35CB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3516deed27017b9d66066e23af1e99bf
+2025-05-11 11:08:24,294 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EEDA35CE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3516deed27017b9d66066e23af1e99bf
+2025-05-11 11:18:05,418 - INFO - ====== WebDriver manager ======
+2025-05-11 11:18:07,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:18:07,953 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:18:08,180 - INFO - Driver [C:\Users\jha.avinash\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-11 11:18:11,995 - INFO - Processing K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:18:43,587 - INFO - Found building details: ['1', 'CORDIAL LEORA', '30/06/2029']...
+2025-05-11 11:18:43,588 - INFO - Wrote building details for K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:18:47,590 - INFO - Found 14 apartment details rows
+2025-05-11 11:18:47,591 - INFO - Wrote 14 apartment rows for K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:18:47,662 - INFO - Successfully processed K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:18:47,662 - INFO - Processing K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:18:55,942 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/1056882b99e7d23e4fb8996fffc49721
+2025-05-11 11:19:00,008 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000273F1E78550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1056882b99e7d23e4fb8996fffc49721
+2025-05-11 11:19:04,086 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000273F1E79950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1056882b99e7d23e4fb8996fffc49721
+2025-05-11 11:23:41,057 - INFO - ====== WebDriver manager ======
+2025-05-11 11:23:43,695 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:23:44,115 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 11:23:44,351 - INFO - Driver [C:\Users\jha.avinash\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-11 11:23:48,201 - INFO - Processing K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:24:20,465 - INFO - Found building details: ['1', 'CORDIAL LEORA', '30/06/2029']...
+2025-05-11 11:24:20,466 - INFO - Wrote building details for K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:24:24,281 - INFO - Found 14 apartment details rows
+2025-05-11 11:24:24,282 - INFO - Wrote 14 apartment rows for K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:24:24,348 - INFO - Successfully processed K-RERA/PRJ/TVM/215/2024
+2025-05-11 11:24:24,348 - INFO - Processing K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:24:54,839 - INFO - Found building details: ['1', 'REIGATE LYNDALE PARK Tower 1', '30/04/2030']...
+2025-05-11 11:24:54,840 - INFO - Wrote building details for K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:25:00,271 - INFO - Found 13 apartment details rows
+2025-05-11 11:25:00,272 - INFO - Wrote 13 apartment rows for K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:25:00,331 - INFO - Successfully processed K-RERA/PRJ/KKD/242/2024
+2025-05-11 11:25:00,331 - INFO - Processing K-RERA/PRJ/315/2020
+2025-05-11 11:25:16,123 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/f12a454b235938d63f80d2425d036680
